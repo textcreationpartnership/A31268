@@ -1,0 +1,402 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The duty and support of believers in life and death a funeral sermon on the death of Mrs. Mary Smith, who deceased Feb. 29, 1687/8 preached, on the Lords Day following, March 4, to the auditory whereof she was a constant member.</title>
+            <author>T. C.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 62 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31268</idno>
+            <idno type="STC">Wing C131</idno>
+            <idno type="STC">ESTC R5669</idno>
+            <idno type="EEBO-CITATION">13689050</idno>
+            <idno type="OCLC">ocm 13689050</idno>
+            <idno type="VID">101383</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31268)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101383)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 840:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The duty and support of believers in life and death a funeral sermon on the death of Mrs. Mary Smith, who deceased Feb. 29, 1687/8 preached, on the Lords Day following, March 4, to the auditory whereof she was a constant member.</title>
+                  <author>T. C.</author>
+               </titleStmt>
+               <extent>[6], 27 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Cockerill ... and John Smith ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: T.C.</note>
+                  <note>"Published at the earnest desire of her nearest relation and others."</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Smith, Mary, d. 1688.</term>
+               <term>Bible. --  O.T. --  Genesis XLIX, 18 --  Sermons.</term>
+               <term>Funeral sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Holly Beeman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101383:1"/>
+            <pb facs="tcp:101383:1" rendition="simple:additions"/>
+            <p> 
+               <hi>The Duty and Support of Believers in Life and Death.</hi>
+            </p>
+            <p>A Funeral Sermon ON THE DEATH OF Mrs. <hi>MARY SMITH,</hi> Who Deceaſed <hi>Feb.</hi> 29. 1687/8.</p>
+            <p>Preached on the Lords Day following, (<hi>March</hi> 4.) to the Auditory whereof ſhe was a conſtant Member.</p>
+            <p>Publiſhed at the Earneſt Deſire of her Neareſt Rela<g ref="char:EOLhyphen"/>tion, and Others.</p>
+            <q>
+               <bibl>Iſaiah XLVI. 4.</bibl>
+               <p>
+                  <hi>Even to your Old Age, I am he; and even to hoary hairs will I carry you.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Tho. Cockerill</hi> in the <hi>Poultrey;</hi> and <hi>John Smith</hi> upon <hi>London-Bridg.</hi> MDCLXXXVIII.</p>
+            <pb facs="tcp:101383:2" rendition="simple:additions"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:101383:2" rendition="simple:additions"/>
+            <head>
+               <hi>To His much Valued and Reſpected Friend, Mr.</hi> Anthony Smith.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>AS You were pleaſed to aſſign that Pro<g ref="char:EOLhyphen"/>vince to Me, of <hi>Preaching</hi> a Sermon on the ſad Occaſion of Her ſudden Death, who not many Weeks ago lay in <hi>your</hi> Boſom, but is now in <hi>Abraham's;</hi> ſo you with ſome others, are to bear the blame (whatſo<g ref="char:EOLhyphen"/>ever happens) of its being <hi>Printed.</hi> I muſt appeal to you and them as my Witneſſes, that my Inclinations were contrary to your Re<g ref="char:EOLhyphen"/>queſts; and that theſe Papers which now ſee the light, ſhould have been <hi>buried</hi> in dark<g ref="char:EOLhyphen"/>neſs (like <hi>Her,</hi> whoſe loſs we bewail) if your Importunity had not pluckt them out of that Grave, which I intended for them, among their fellows. <hi>My time is not yet come</hi> (I <note place="margin">
+                  <hi>Joh.</hi> 7. 4, 6.</note> know not whether ever it may or no) <hi>to ſhew my ſelf to the world</hi> in ſuch a manner; for in like caſes heretofore, there are ſome who can teſtifie, that I am not of their number,
+<pb facs="tcp:101383:3"/> whoſe <hi>time is always ready,</hi> becauſe they <hi>ſeek to be known openly.</hi>
+            </p>
+            <p>I will not trouble my ſelf here to publiſh my own Infirmities; the following Diſcourſe will do <hi>that</hi> ſufficiently; only to prevent any from thinking that I have done ſomething <hi>extra<g ref="char:EOLhyphen"/>ordinary</hi> upon this ſubject, it will be but ju<g ref="char:EOLhyphen"/>ſtice to acquaint them that fewer hours were left me, wherein to prepare for this, than what I commonly have for my conſtant work.</p>
+            <p>It might have been thought perhaps more proper by ſome, for <hi>Days to ſpeak,</hi> when ſuch <hi>Gray hairs</hi> were dropt into the <hi>place of ſi<g ref="char:EOLhyphen"/>lence;</hi> becauſe they are leſs obnoxious to pub<g ref="char:EOLhyphen"/>lick cenſure, and more able to encounter it. But I muſt now quietly <hi>take</hi> that <hi>Lot,</hi> which every Reader is diſpos'd to <hi>caſt</hi> upon me; not expecting the ſame kindneſs and clemency from <hi>all,</hi> which it is poſſible that I may obtain with a <hi>few.</hi> For it is eaſie to obſerve, that the moſt do paſs a <hi>ſevere</hi> or <hi>favourable</hi> Ver<g ref="char:EOLhyphen"/>dict upon Diſcourſes, according as they have mens perſons in <hi>contempt</hi> or <hi>admiration;</hi> and too many oftentimes are kept from <hi>recei<g ref="char:EOLhyphen"/>ving the love of the Truth,</hi> by their rooted prejudices againſt him that does deliver it.</p>
+            <pb facs="tcp:101383:3"/>
+            <p> The main thing about which I am concern'd, (next to the <hi>occaſion</hi> it ſelf) is, that ſo mean a Performance ſhould follow after ſuch a mournful Solemnity; but I hope that none will meaſure <hi>her</hi> real worth by the very ſhort and imperfect repreſentation which I have given of it; ſhe hath a <hi>Record on high,</hi> which <note place="margin">
+                  <hi>Job</hi> 16. 19.</note> ſpeaks more fully in her praiſe than our poor Teſtimonies here below. Her honoured <hi>Name</hi> did indeed deſerve a more <hi>coſtly Embalm<g ref="char:EOLhyphen"/>ing,</hi> than I was able to beſtow; others may ſay only of me, as Chriſt did of the <hi>Affectionate</hi> 
+               <note place="margin">
+                  <hi>Mark</hi> 14. 8.</note> 
+               <hi>Woman,</hi> that <hi>I have done what I could;</hi> I have the will to do more, and therefore ſin<g ref="char:EOLhyphen"/>cerely add, that <hi>whereſoever I may be call'd</hi> (at any time hereafter) <hi>to preach this Go<g ref="char:EOLhyphen"/>ſpel, I ſhall be ready to publiſh the ſame Memorial of her,</hi> as I have done in this Ser<g ref="char:EOLhyphen"/>mon, for the glory of that Grace which was given to her.</p>
+            <p>Let not this revive your ſorrow, which is de<g ref="char:EOLhyphen"/>ſign'd as an Antidote againſt it. Remember that the Thread was ſpun almoſt to <hi>LXIX,</hi> before it broke, and many thouſands come not ſo near the ordinary limited <hi>age of man,</hi> as <note place="margin">
+                  <hi>Pſal.</hi> 90. 10.</note> ſhe did. Remember alſo, that there was the
+<pb facs="tcp:101383:4"/> comfortable conjunction of 45 Years, before the hand of God's wiſe and holy Providence made this afflicting ſeparation. You have cauſe to <hi>ſing of mercy,</hi> as well as <hi>judgment;</hi> do not <hi>overlook</hi> the one, by <hi>poring</hi> on the other.</p>
+            <p>I ſhall not forget to lift up an Hearty Prayer for you, That the <hi>breach</hi> which God hath made, may be abundantly repair'd, and <hi>fill'd up</hi> by himſelf; and that Jeſus Chriſt (the glorious <hi>Bridegroom,</hi> to whom your <hi>late Conſort</hi> is now more intimately join'd) <hi>would not leave you</hi> 
+               <note place="margin">
+                  <hi>Joh.</hi> 14. 18.</note> 
+               <hi>comfortleſs, but come to you:</hi> That your <hi>Hoary Hairs</hi> may be yet long continued <hi>in the way of Righteouſneſs,</hi> as an Example and Encouragement to others; and that God would not at laſt <hi>caſt you off, nor forſake you, when <note place="margin">Pſal. 71. 9.</note> your ſtrength</hi> totally <hi>fails,</hi> but in a <hi>good old age</hi> tranſlate you to a <hi>more happy Eternity.</hi>
+            </p>
+            <p>And while I am thus praying <hi>for you,</hi> I doubt not your concurrence <hi>with me,</hi> in beg<g ref="char:EOLhyphen"/>ing of God that this ſmall Diſcourſe may go <hi>and bring forth fruit,</hi> and that its <hi>fruit may remain;</hi> which will be great ſatisfaction to</p>
+            <closer>
+               <dateline>
+                  <date>March 20. 1687/8.</date>
+               </dateline>
+               <signed>Your Friend and Servant in the Concerns of your Soul, <hi>T. C.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:101383:4"/>
+            <head>
+               <hi>The Duty and Support of Believers,</hi> &amp;c.</head>
+            <epigraph>
+               <q>
+                  <bibl>Geneſis XLIX. 18.</bibl>
+                  <p>
+                     <hi>I have waited for thy Salvation, O Lord.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <p>THIS Chapter contains the Prophecy which was uttered by <hi>Jacob</hi> on his Death-Bed, with reſpect to thoſe things which were to be<g ref="char:EOLhyphen"/>fall his Poſterity in the latter Days. It hath been obſerved of many of God's Servants, that God hath revealed more of the Counſel of his Will to them at the cloſe of their Lives, than at any time before; but that which was ſpoken by the <hi>Holy Pa<g ref="char:EOLhyphen"/>triarch</hi> here, he was moved to ſpeak in an extraordi<g ref="char:EOLhyphen"/>nary manner, by the direction of an Infallible Spi<g ref="char:EOLhyphen"/>rit. He mentions particular Events relating to ſeveral of his Sons, and the Tribes which ſhould come from them diſtinctly: and in the midſt of thoſe predi<g ref="char:EOLhyphen"/>ctions he breaks out into this Pathetical paſſage, <hi>I have waited,</hi> &amp;c.</p>
+            <p>The Words ſeem to be a ſudden Ejaculation, having no ſtrict or neceſſary Coherence with what goes be<g ref="char:EOLhyphen"/>fore, or follows after: only (as a <hi>Learned Man</hi> con<g ref="char:EOLhyphen"/>jectures) <note place="margin">
+                  <hi>Charnock</hi> vol. 2. p. 1169.</note> 
+               <hi>Jacob</hi> having compared <hi>Dan</hi> to a <hi>Serpent,</hi> upon the account of its ſubtilty, <hi>(ver.</hi> 17.) this might mind him of that trick which the <hi>Old Serpent</hi> put upon our Firſt Parents, which laid the foundation of
+<pb n="2" facs="tcp:101383:5"/> their fall, and ſo he takes occaſion from t<gap reason="illegible" resp="#UOM" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap>e to expreſs his Faith in that Seed of the Wo<gap reason="illegible" resp="#UOM" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap> who was promiſed to break the Serpent's Head. However this be, we may reaſonably ſuppoſe, That ſo eminent a Saint, when he found himſelf almoſt tired with ſpeaking to his Children, and the pains of Death taking hold of him, was willing (like <hi>Simeon)</hi> with open Arms to receive the expected <hi>Meſſiah,</hi> and deſi<g ref="char:EOLhyphen"/>rous to be received by God for the <hi>Meſſiah</hi>'s ſake. This Patriarch is noted to have been exerciſed with more troubles than any of his Progenitors; and therefore he tells <hi>Pharaoh</hi> that his days had been <hi>few and evil, (chap.</hi> 47. 9.) and beſides this, he had now the proſpect of many Calamities which his Seed would undergo after his Deceaſe, which might make the preſent Agonies of Death more ſharp and bit<g ref="char:EOLhyphen"/>ter to him; but he fetches comfort and relief from this great Conſideration, That there was a <hi>Spiri<g ref="char:EOLhyphen"/>tual</hi> and <hi>Eternal</hi> Saviour provided for him and his, whom by dying he ſhould come to enjoy.</p>
+            <p>Some have been very induſtrious to exclude the Knowledg of Chriſt from the Old-Teſtament times; as if there had been no <hi>waiting for the Kingdom of God,</hi> and <hi>for the Conſolation of Iſrael,</hi> before he was <note place="margin">Mark 15. 43. Luke 2. 25.</note> manifeſted in the Fleſh; but we have been taught otherwiſe by Chriſt himſelf, who gave that Teſtimony to <hi>Faithful Abraham, He rejoiced to ſee my Day:</hi> And <note place="margin">John 8. 56.</note> 
+               <hi>Jacob</hi>'s ſight (who lived ſomewhat nearer to that Day) ſeems to be clearer than <hi>Abraham</hi>'s; for in this laſt extremity of his life, he makes mention Three times of the Redeemer under three different Titles; he calls him the <hi>Angel, (chap.</hi> 48. 16.) becauſe he is the <hi>Angel of the Covenant,</hi> who did both publiſh and confirm it; and the <hi>Angel of Gods Prefence,</hi> who
+<pb n="3" facs="tcp:101383:5"/> was <gap reason="illegible" resp="#UOM" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap>e the Beginning with God, and through whom we have acceſs to God; he gives him the name of <hi>Shiloh (ver.</hi> 10. of this <hi>chap.)</hi> that is, the Perſon eminently <hi>ſent</hi> of God; and in the Text he deſcribes him by that high and Glorious Character, the <hi>Salva<g ref="char:EOLhyphen"/>tion of God,</hi> which is the Stile not only uſed by ſeve<g ref="char:EOLhyphen"/>ral of the Prophets afterwards in ſpeaking to the <hi>Jewiſh</hi> Church, but alſo by <hi>Dying Simeon,</hi> when the <note place="margin">Luke 2. 30.</note> Infant-Jeſus was preſented in the Temple.</p>
+            <p>The Doctrinal Propoſition to be raiſed from theſe Words, may be this, <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>
+               </label> 
+               <hi>That it is the work of Living, and comfort of Dying Believers, to wait for Gods Sal<g ref="char:EOLhyphen"/>vation.</hi>
+            </p>
+            <p>I ſhall handle this Propoſition in the following Method.</p>
+            <list>
+               <item>I. Shew what is this Salvation which Believers are <milestone type="tcpmilestone" unit="unspecified" n="I"/> to wait for.</item>
+               <item>II. How is this Work to be done while they Live. <milestone type="tcpmilestone" unit="unspecified" n="II"/>
+               </item>
+               <item>III. How will it yield them Comfort when they <milestone type="tcpmilestone" unit="unspecified" n="III"/> Dye.</item>
+               <item>IV. Apply the whole to our ſelves and the Oc<g ref="char:EOLhyphen"/>caſion. <milestone type="tcpmilestone" unit="unspecified" n="IV"/>
+               </item>
+            </list>
+            <p>I begin with the firſt Thing, to ſhew, What this <milestone type="tcpmilestone" unit="unspecified" n="I"/> 
+               <hi>Salvation</hi> is, which Believers are to wait for. In general, <hi>Chriſt himſelf,</hi> and the <hi>Benefits</hi> which come by him, are comprehended under it.</p>
+            <p>Firſt, Jeſus Chriſt in his <hi>Perſon</hi> may very well be (and indeed is to be moſt principally) underſtood by this expreſſion: His Coming in the Fleſh was the great Promiſe of the Father, embrac'd and depended on by all the Believers who lived before his time: He was the <hi>Deſire of all Nations;</hi> and in a ſpecial <note place="margin">Mal. 3. 1.</note>
+               <pb n="4" facs="tcp:101383:6"/> manner the <hi>Hope of Iſrael. O that the ſ<gap reason="illegible" resp="#UOM" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>ion of</hi> 
+               <note place="margin">Acts 28. 20. Pſalm 14 7.</note> 
+               <hi>Iſrael were come out of Sion!</hi> was the unanimous voice of that Church in their Publick Worſhip. Now the ſecond Appearance of this Chriſt to Judgment, and the Tranſlation of our Souls to him by Death, with the happy Conſequences of both, (as will be ſhewn in the progreſs of this Diſcourſe) are things ſtill expected by ſuch as remain in the Body. Here particular ſatisfaction ſhould be given to Three En<g ref="char:EOLhyphen"/>quiries.</p>
+            <list>
+               <item>1. Why is Jeſus Chriſt ſtiled <hi>Salvation?</hi>
+               </item>
+               <item>2. Why is he called the <hi>Salvation of the Lord?</hi>
+               </item>
+               <item>3. What is he, who hath this Title, yet to do, which living Believers <hi>wait</hi> for.</item>
+            </list>
+            <p n="1">1. Why is Chriſt Jeſus called <hi>Salvation?</hi> I conceive chiefly for theſe Two Reaſons; becauſe he is the <hi>Pur<g ref="char:EOLhyphen"/>chaſer</hi> and <hi>Diſpenſer</hi> of it.</p>
+            <p>
+               <hi>Firſt;</hi> Becauſe he is the <hi>Purchaſer</hi> and <hi>Author</hi> of <note place="margin">Heb. 5. 9.</note> Salvation; ſo he is ſtiled by the great Apoſtle; inaſ<g ref="char:EOLhyphen"/>much as he deſerv'd, procur'd, and wrought it out for us. Our Salvation is founded in his Blood, be<g ref="char:EOLhyphen"/>ſtowed upon the account of his Merit, with a reſpect to his Satisfaction, and through the virtue of his In<g ref="char:EOLhyphen"/>terceſſion: It is true, <hi>we are ſaved by Grace;</hi> but the Queſtion is, What Grace, and how it comes to be <note place="margin">Epheſ. 2. 8.</note> exerciſed and conveyed? In relation to this, (though it be originally the Grace of God) 'tis ſaid to be the <hi>Grace of the Lord Jeſus Chriſt;</hi> therefore Salvation <hi>by</hi> 
+               <note place="margin">Acts 15. 11.</note> and <hi>in</hi> Chriſt, are ſuch very common and frequent expreſſions in the New Teſtament; nay we meet with the ſame ſometimes in the Old Teſtament referring to him. So the Evangelical Prophet,
+<pb n="5" facs="tcp:101383:6"/> 
+               <hi>Iſrael <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>all be ſaved in the Lord, with an everlaſting</hi> 
+               <note place="margin">Iſa. 45. 17. ver. 21, 22, 23, 24, 25.</note> 
+               <hi>ſalvation.</hi> What <hi>Lord</hi> is this, but he <hi>beſides whom there is no Saviour?</hi> He <hi>to whom the ends of the earth muſt look:</hi> He <hi>to whom every knee ſhall bow?</hi> He <hi>in whom we have righteouſneſs and ſtrength;</hi> and <hi>in whom all the ſeed of Iſrael ſhall be juſtified,</hi> &amp;c. Who is this but Chriſt himſelf; and what <hi>Salvation</hi> is <hi>ever<g ref="char:EOLhyphen"/>laſting</hi> except his? The ſame Prophet tells us it was <hi>his own arm which brought ſalvation, for there was none</hi> 
+               <note place="margin">chap. 63. 5.</note> 
+               <hi>to help him</hi> in that work: Angels who <hi>excel in ſtrength</hi> were too <hi>weak</hi> for ſuch an Undertaking; a <hi>man's re<g ref="char:EOLhyphen"/>deeming of his brother by any means</hi> was much more impoſſible; for a combination of <hi>all</hi> the men in the World could not have been ſerviceable ſo much as to <hi>one:</hi> Salvation is the Price of Chriſts Death, and the Effect of his Power.</p>
+            <p>Secondly, Becauſe he is the <hi>Giver</hi> and <hi>Diſpenſer</hi> of Salvation; and he hath Authority ſo to be en<g ref="char:EOLhyphen"/>truſted with him by the Father, becauſe it was ac<g ref="char:EOLhyphen"/>compliſh'd by himſelf. In this ſenſe he is called the <hi>God of our Salvation,</hi> by the Pſalmiſt; this being the <note place="margin">Pſal. 68. 19, 20.</note> great <hi>Gift which he received for men;</hi> for it is moſt apparent, that Chriſt is the perſon ſpoken of, from the foregoing verſe, where we have an account of his <note place="margin">v. 18.</note> Aſcenſion into Heaven in the very words which the Apoſtle <hi>Paul</hi> uſes on that Subject. The Prophet <note place="margin">Epheſ. 4. 8. Zech. 9. 9.</note> ſpeaks to the ſame purpoſe, <hi>Behold thy King cometh unto thee, he is juſt, and having ſalvation:</hi> The latter part of that verſe <hi>(lowly, and riding upon an aſs,</hi> &amp;c.) does plainly refer to the means and manner of Chriſt's famous Journey to <hi>Jeruſalem,</hi> and is therefore applied to him by the Evangeliſt upon that occaſion: When <note place="margin">Matt. 21. 5.</note> it is ſaid that Chriſt <hi>hath</hi> Salvation, the meaning is, that he hath it to communicate; for though he is
+<pb n="6" facs="tcp:101383:7"/> 
+               <hi>juſt,</hi> yet all the <hi>Mercy</hi> of God comes through his hands. For this reaſon he is called by <hi>Zacharias</hi> the <note place="margin">Luke 1. 69.</note> father of his fore-runner, <hi>an horn of ſalvation,</hi> from whence Salvation is more immediately <hi>pour'd out</hi> up<g ref="char:EOLhyphen"/>on loſt and miſerable ſouls. He carried it along with him whitherſoever he went; therefore when <hi>Zacheus</hi> had opened his doors to him, he tells him, <hi>This day</hi> 
+               <note place="margin">chap. 19. 9.</note> 
+               <hi>is ſalvation come to this houſe.</hi> With reſpect to this, the times of the Goſpel, which are more eſpecially the <hi>days of the Son of man,</hi> are honoured with that <note place="margin">Iſa. 49. 8.</note> Character of the <hi>day of Salvation.</hi> It is the Word of Chriſt, wherein this Salvation is declared and offered; it is by the Spirit whom Chriſt now ſends into our hearts, that we come to be intereſted in it; and it is the ſame Chriſt who will put us into actual and compleat poſſeſſion of it at the laſt.</p>
+            <p n="2">2. I am to open, Why Jeſus Chriſt is ſtiled the Salvation <hi>of the Lord:</hi> Upon what grounds might holy <hi>Jacob</hi> give him this peculiar diſcriminating mark, when he was making his laſt Addreſs to God, <hi>Thy</hi> Salvation? The ſame note of Diſtinction and Pro<g ref="char:EOLhyphen"/>priety is frequently ſet upon Chriſt by God himſelf in the Prophetical Books, which any one that diligently examines may eaſily diſcover. Among other Reaſons of this, theſe two may be inſiſted on.</p>
+            <p>
+               <hi>Firſt;</hi> Becauſe Chriſt <hi>came</hi> with God's <hi>Commiſſion;</hi> 
+               <note place="margin">John 6. 38, 39. 40.</note> how many times does he make mention of the <hi>Father</hi>'s <hi>will that ſent him?</hi> Thrice together in one Diſcourſe. The whole tranſaction of the Recovery of ſinful man, was by Divine appointment; the Father and the Son had from Eternity agreed, together with the Bleſſed Spirit, about what the Son was to undertake and per<g ref="char:EOLhyphen"/>form in time: <hi>I will give thee</hi> (ſays God, pointing at <note place="margin">Iſa. 49. 6.</note> Chriſt) <hi>for a light to the Gentiles, that thou mayeſt be</hi>
+               <pb n="7" facs="tcp:101383:7"/> 
+               <hi>my ſalvation to the ends of the earth;</hi> which <hi>Paul</hi> re<g ref="char:EOLhyphen"/>peating to his Hearers at <hi>Antioch,</hi> renders thus, <hi>I have</hi> 
+               <note place="margin">Acts 13. 47.</note> 
+               <hi>ſet thee,</hi> &amp;c. The comparing of both places together, ſhews that Chriſt was conſtituted and ordain'd by God, to be what he is, and to do what he did. The work which he was engaged in, is therefore ſome<g ref="char:EOLhyphen"/>times called the <hi>Work of God,</hi> and he God's <hi>Servant</hi> in the carrying of it on. Indeed if Chriſt had not been authorized by the Father, all his Mediatorial Acts had been invalid; we ſhould have been ſtill in our ſins, and under the curſe; we ſhould have been yet detain'd in the hands of Juſtice, and obnoxious to implacable Wrath.</p>
+            <p>
+               <hi>Secondly,</hi> Becauſe he ſucceded with God's <hi>acceptance.</hi> Our Lord hath finiſhed his Reconciling-work, by finiſhing the Tranſgreſſion which caus'd the Enmity; <hi>He blotted out the hand-writing which was againſt us,</hi> 
+               <note place="margin">Coloſſ. 2. 14.</note> 
+               <hi>and took it out of the way;</hi> which implies the conſent and approbation of God the <hi>Soveraign Judg.</hi> He had a truſt repoſed in him, which he faithfully diſ<g ref="char:EOLhyphen"/>charged; a burden laid upon him, which he patient<g ref="char:EOLhyphen"/>ly bore; whereupon <hi>he was juſtified in the ſpirit,</hi> and <note place="margin">1 Tim. 3. 16. Heb. 2. 9. Iſa. 42. 4.</note> 
+               <hi>crowned with glory and honour:</hi> He fulfilled what the Prophet had foretold concerning him, <hi>That he ſhould not fail or be diſcouraged, till he had eſtabliſht judgment in the earth;</hi> this implies that there would be a great deal of difficulty and oppoſition for him to meet with, but he ſhould conquer it all by his Omnipotence, and anſwer the ends of Gods Grace in ſending him. All <hi>our</hi> Enemies were his; Earth and Hell, and (in ſome ſenſe) Heaven too, were againſt him; but he came off victorious, and God declared him ſo, by gi<g ref="char:EOLhyphen"/>ving him a <hi>Throne</hi> to ſit on after his Death and Re<g ref="char:EOLhyphen"/>ſurrection. God gave him his name <hi>Jeſus</hi> at the firſt; <note place="margin">Rev. 3. 21. Matt. 1. 21.</note>
+               <pb n="8" facs="tcp:101383:8"/> and God's advancing of him to his own Right-hand, (a place of the higheſt honour) when all was done, is an evidence that he deſerves to wear that Name, for <hi>he hath ſaved his people from their ſins.</hi> God would not have ſo dignified his Perſon, if he had re<g ref="char:EOLhyphen"/>jected his Performance: Jeſus Chriſt therefore is God's Jeſus, or God's Salvation, as he is both <hi>Commiſ<g ref="char:EOLhyphen"/>miſſioned</hi> and <hi>Accepted</hi> by God on our behalf.</p>
+            <p n="3">3. I am to ſhew, What Chriſt is yet to do, which living Believers <hi>wait</hi> for. This may be ſumm'd up in Two Things.</p>
+            <p>
+               <hi>Firſt,</hi> He is to receive our Spirits at the <hi>end</hi> of our <hi>lives;</hi> the Prayer of <hi>Stephen</hi> is a pattern for us all; <hi>When they ſtoned him</hi> (as his laſt breath was going forth) <hi>he called upon God, and ſaid, Lord Jeſus, re<g ref="char:EOLhyphen"/>ceive</hi> 
+               <note place="margin">Acts 7. 59.</note> 
+               <hi>my Spirit:</hi> It is true, he was mightily encou<g ref="char:EOLhyphen"/>raged to this, by the extraordinary Viſion which he had a little before; <hi>He ſaw the heavens opened, and the Son of man standing on the right hand of God,</hi> in a <note place="margin">v. 55, 56.</note> ready poſture (as it were) to grant his requeſt, and to receive his Soul as ſoon as parted from his body. Here was indeed a Glorious Diſcovery made, even to the <hi>Senſes</hi> of that dying Martyr; but the diſcoveries which are made to our <hi>Faith,</hi> are as <hi>real</hi> as this, tho perhaps not altogether ſo <hi>raviſhing;</hi> though now we <hi>ſee not</hi> Chriſt, yet <hi>believing,</hi> we may commend our departing Spirits to him, without the fear or hazard of being refuſed by him. <hi>David</hi> in the midſt of great ſtraits and dangers does confidently put up this ſort of Petition, <hi>Into thy hand I commit my Spirit;</hi> 
+               <note place="margin">Pſal. 31. 5.</note> and he urg<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> this Argument to back it, <hi>Thou hast re<g ref="char:EOLhyphen"/>deemed me,</hi> &amp;c. Who ſo fit or ſo forward to do this for us when we dye, as he that hath already died to obtain our Redemption from the <hi>Second Death?</hi> He who
+<pb n="9" facs="tcp:101383:8"/> pour'd out <hi>his ſoul</hi> for us, when he was upon the Croſs, does thereby encourage us, now he is in Hea<g ref="char:EOLhyphen"/>ven, to pour out <hi>our ſouls</hi> into his hand; as the poor ſtarved children are ſaid to pour out <hi>theirs into the</hi> 
+               <note place="margin">Lament. 2. 12.</note> 
+               <hi>boſoms</hi> of their mothers.</p>
+            <p>Secondly, He is to come again at the <hi>End</hi> of the <hi>World;</hi> this is as much the expectation of Believers now, as his firſt coming was heretofore. <hi>To them that look for him, ſhall he appear the ſecond time, without ſin</hi> 
+               <note place="margin">Heb. 9. 28.</note> 
+               <hi>unto ſalvation.</hi> This is the appearing which the Church ſays <hi>Amen</hi> to, both at the beginning and the cloſe of the <hi>Revelation.</hi> We expect to ſee that Jeſus who was <note place="margin">Revel. 1. 7. &amp; 22. 20.</note> once <hi>veil'd</hi> in fleſh, coming in the <hi>Clouds</hi> of heaven; we expect to ſee him who had only the poor retinue of <hi>twelve</hi> Diſciples, coming with <hi>ten thouſands</hi> of his Saints: He that lived upon Alms for the mainte<g ref="char:EOLhyphen"/>nance of his <hi>temporal life,</hi> ſhall actually diſtribute <hi>eternal life;</hi> he that once ſtood before <hi>Pilate</hi>'s <hi>Bar,</hi> ſhall ſit down upon a <hi>Tribunal</hi> himſelf: And he that was Crucified through <hi>weakneſs,</hi> ſhall be armed with Irreſiſtible <hi>power.</hi> All this Believers can expect with <hi>joy,</hi> becauſe the Day of Judgment is their <hi>Day of Re<g ref="char:EOLhyphen"/>demption.</hi> 
+               <note place="margin">Luk. 21. 28. Epheſ. 4. 30.</note> Who among the Children of God would not be glad to ſee his Saviour again, when he ſhall <hi>bring his</hi> final <hi>rewards with him!</hi> Who would not re<g ref="char:EOLhyphen"/>joyce to look upon him as a <hi>Judg,</hi> that's intereſted in him as an <hi>Advocate!</hi> We look for a very <hi>glorious</hi> re<g ref="char:EOLhyphen"/>volution before that day, with reſpect to the proſ<g ref="char:EOLhyphen"/>perity and flouriſhing of the Church; but at that day there ſhall be ſuch a change and renovation of the whole world, as will <hi>exceed in glory.</hi> It is not our belief, that Chriſt will ſuffer things always to continue as they are; but we believe that this decay<g ref="char:EOLhyphen"/>ing frame of Nature ſhall be diſſolved, a <hi>new Heaven</hi>
+               <pb n="10" facs="tcp:101383:9"/> and <hi>Earth</hi> ſpring out of the aſhes of the <hi>old,</hi> every creature be ſubdued to God, the publick ſentence of life or death pronounc'd upon all mankind, and then the Kingdom deliver'd up to the Father. This is what remains to be done by Chriſt.</p>
+            <p>Secondly, The <hi>Benefits</hi> which flow from Chriſt, may be included in this term of the <hi>Lords Salvation;</hi> and there are ſome ſuch, which believers while alive, are not poſſeſt of, but waiting for. I grant that they receive ſeveral of Chriſts benefits, when they are made believers, yea even <hi>thoſe</hi> which are the earneſt and pledg of <hi>all the reſt:</hi> They have <hi>eternal life abi<g ref="char:EOLhyphen"/>ding in them,</hi> aſſoon as their ſpiritual life is begun; if they become <hi>the children of God by faith,</hi> at their new birth, then they are at that time the <hi>rightful Heirs</hi> 
+               <note place="margin">Rom. 8. 17.</note> of Heaven, and of all that Heaven contains; but ſtill the <hi>Inheritance</hi> is <hi>reſerved for them.</hi> They have not <note place="margin">1 Pet. 1. 4.</note> the <hi>perfect enjoyment</hi> of all that God hath promis'd, and that Chriſt hath purchas'd, though they have the <hi>title</hi> and the <hi>firſt fruits.</hi> The following particulars will ſhew what they wait for, as the effects of their Saviour's ſufferings.</p>
+            <p>Firſt, (to begin with the leaſt and loweſt of their Expectations) A full deliverance from <hi>temporal</hi> and <hi>ex<g ref="char:EOLhyphen"/>ternal evils;</hi> ſuch as pain and ſickneſs, Providential diſappointments and loſſes, unjuſt and violent Per<g ref="char:EOLhyphen"/>ſecutions, <hi>&amp;c.</hi> which they are more or leſs, at one time or another, ſubject to in this life. Though theſe burdens are <hi>comparatively light,</hi> yet many times they make a Believer to <hi>groan</hi> under them, while he is <hi>in this Tabernacle.</hi> They lye ſo heavy ſome<g ref="char:EOLhyphen"/>times, <note place="margin">2 Cor. 5. 4.</note> eſpecially when <hi>ſeveral kinds</hi> of them meet together (like various <hi>Rivers</hi> which run into one
+<pb n="11" facs="tcp:101383:9"/> 
+               <hi>Sea</hi> of trouble) that they make a man <hi>bitter in ſoul,</hi> and put him upon <hi>longing for death,</hi> which other<g ref="char:EOLhyphen"/>wiſe <note place="margin">Job 3. 20, 21.</note> he would be moſt deſirous to ſhun. Though theſe are <hi>leſſer</hi> evils, yet they are <hi>real;</hi> and ſo long as we labour under them, we cannot but look up<g ref="char:EOLhyphen"/>on our ſelves as <hi>miſerable in part.</hi> Who can doubt that our bleſſedneſs is imperfect while our <hi>bones are vexed,</hi> while Gods <hi>arrows ſtick in our fleſh;</hi> when ſo many Diſeaſes are ready to aſſault us, and unſeen Caſualties to fall upon us; where our riches, and all other worldly glory (like <hi>birds upon the wing)</hi> are prepar'd to <hi>fly away</hi> from us; where our fineſt <note place="margin">Hoſ. 9. 11.</note> 
+               <hi>garments</hi> are ſo quickly <hi>moth-eaten,</hi> and our moſt valuable <hi>Goods corrupted;</hi> where our whole inheri<g ref="char:EOLhyphen"/>tance is liable to the ſpoiler's hands, and the Sons of blood (if God at any time let them looſe) may <hi>ariſe and take poſſeſſion?</hi> How uncertainly is our health, or eaſe, or plenty, or tranquility prolong'd, while we are here! in how ſmall a moment may all the contrary miſchiefs overtake us! But we wait the time, when God will <hi>finally</hi> ſave us out of all.</p>
+            <p>Secondly, Deliverance from the <hi>remainders</hi> of <hi>In<g ref="char:EOLhyphen"/>dwelling Corruption,</hi> and the <hi>Temptations</hi> of <hi>Satan.</hi> Here a Believer is often crying out with <hi>Paul, Oh wretched man that I am! who ſhall deliver me from</hi> 
+               <note place="margin">Rom. 7. 24.</note> 
+               <hi>the body of this death?</hi> He hath not yet actually obtain'd ſuch a deliverance, but he waits for it: <hi>I thank God through Jeſus Chriſt our Lord.</hi> We ma<g ref="char:EOLhyphen"/>ny <note place="margin">Ver. 25.</note> times feel the <hi>tyranny</hi> and force of ſin, though it hath loſt its conſtant and allowed <hi>Dominion;</hi> we are led into an unwilling <hi>Captivity,</hi> though we have renounc'd the voluntary <hi>ſervice.</hi> Satan,
+<pb n="12" facs="tcp:101383:10"/> though he cannot <hi>command</hi> us, does frequently <hi>over<g ref="char:EOLhyphen"/>come</hi> us; though we do not <hi>yield</hi> our ſelves to him, we are <hi>prevail'd upon</hi> by him: He <hi>entangles</hi> us, though we do not <hi>run into the ſnare;</hi> he pur<g ref="char:EOLhyphen"/>ſues and <hi>overtakes</hi> us, when we ſhun him, and <hi>fly from</hi> him. How troubleſome and tedious is this to a child of God! that he <hi>cannot go from the</hi> evil <hi>ſpirit,</hi> nor ſtifle the luſts of his own heart! What a ſad exerciſe is this to a <hi>Saint,</hi> that he ſhould not only have <hi>Principalities and Powers</hi> to <hi>wreſtle with,</hi> but be <hi>divided againſt himſelf!</hi> Indeed the ſin<g ref="char:EOLhyphen"/>cerity of all thoſe is to be ſuſpected, who can bear this with any quietneſs or ſatisfaction. But the Heavenly ſtate admits of no ſuch diſturbances; we wait for an abſolute freedom both from ſin and tem<g ref="char:EOLhyphen"/>ptation in the next world.</p>
+            <p>Thirdly, A <hi>Declared Juſtification</hi> from the <hi>Guilt</hi> of every ſin. This was the motive to Repentance and Converſion, which <hi>Peter</hi> laid before the <hi>Jews,</hi> whoſe hands were ſtained with the blood of Chriſt: <hi>That your ſins may be blotted out, wben the times of</hi> 
+               <note place="margin">Act. 3. 19.</note> 
+               <hi>refreſhing ſhall come from the preſence of the Lord.</hi> It is true, that every ſin is now blotted out to every true Believer; but in the day of Chriſt, he will <hi>ſhew</hi> that it is ſo. The <hi>Books</hi> when they are <hi>open'd,</hi> ſhall be <hi>viſibly croſt,</hi> and we pronounc'd before An<g ref="char:EOLhyphen"/>gels and men as Righteous (by the ſinleſs <hi>Obedience</hi> of the <hi>ſecond Adam)</hi> as if we never had offended. There is a <hi>private act of Oblivion</hi> (as it were) al<g ref="char:EOLhyphen"/>ready <hi>paſt,</hi> but then it ſhall be <hi>publickly read</hi> in the hearing of the World. Our pardon is now <hi>certain</hi> (upon the ſuppoſition of repentance and faith) then it ſhall be as <hi>evident</hi> as certain, and univerſally
+<pb n="13" facs="tcp:101383:10"/> known both to others and our ſelves: We are indeed <hi>Juſtified by Faith</hi> at preſent, and abundant<g ref="char:EOLhyphen"/>ly <note place="margin">Rom. 5. 1. John 5. 24.</note> ſecur'd from <hi>future Condemnation;</hi> but there will be a <hi>Judicial Declaration</hi> of our Righteouſ<g ref="char:EOLhyphen"/>neſs at the appearing of our Lord Jeſus, which will tend more to the Honour of God's Grace, and to the Increaſe of our Everlaſting Joy: All that we have <hi>done amiſs</hi> ſhall be ſo abſolutely forgiven, that Chriſt will then audibly ſay in the <hi>General Aſſembly</hi> of Mankind, <hi>Well done;</hi> and will <note place="margin">Matt. 25. 21, 23.</note> not that be a <hi>joyful ſound?</hi> We cannot conceive what Glory will redound hence to God, and what Triumph of Spirit it will cauſe in us.</p>
+            <p n="4">4. A <hi>nearer view</hi> of God, and <hi>Converſe</hi> with him. While we are ſojourning here, we are at a <hi>Diſtance,</hi> and ſo ſee but darkly, and enjoy but little: We are <hi>nigh to God,</hi> in compariſon of the Unregenerate part of <hi>this</hi> World, but we are <hi>afar off</hi> from God, in compariſon of the glorified Inhabitants of the <hi>next.</hi> What ſignifies our ſight of God in the <hi>San<g ref="char:EOLhyphen"/>ctuary,</hi> compared with that ſight which they have in <hi>Heaven!</hi> How far ſhort does our <hi>beholding in a Glaſs,</hi> come of <hi>ſeeing</hi> God <hi>face to face!</hi> What Com<g ref="char:EOLhyphen"/>munion have we in <hi>Ordinances,</hi> worthy to be named with the <hi>immediate</hi> Fruition of the Divine Preſence! We wait for more <hi>open viſion,</hi> and more intimate fellowſhip; for ſuch a ſtate wherein <hi>God himſelf</hi> 
+               <note place="margin">Rev. 21. 3.</note> 
+               <hi>ſhall be with us;</hi> not the Word of God, and other Inſtituted Means of Grace, but <hi>God himſelf:</hi> We cannot yet know (by ſpeculation) how great ſuch an happineſs is; but we expect to know by experience; we are like perſons ſtanding at the <hi>door,</hi> who cannot ſee what is <hi>within the houſe;</hi>
+               <pb n="14" facs="tcp:101383:11"/> Death is the <hi>pulling</hi> of this door <hi>aſide,</hi> and then all things will be <hi>nakedly expoſed</hi> to our per<g ref="char:EOLhyphen"/>fected Underſtandings. To what good purpoſe ſhall we <hi>lift up</hi> our Eyes above, after our Friends have <hi>cloſed</hi> them for us here below! What a Glory will be <hi>revealed in us</hi> then, which is hid <note place="margin">Rom. 8. 18.</note> from us now! How much more of God will be communicated hereafter <hi>without</hi> means, than is or can be <hi>by</hi> them in this preſent ſtate! We <hi>ſit under Shadows</hi> now, then we ſhall ſit down by the <hi>Foun<g ref="char:EOLhyphen"/>tain of Light.</hi>
+            </p>
+            <p n="5">5. Believers wait for the <hi>transforming</hi> of their <hi>Bodies</hi> into the likeneſs of Chriſt's at the <hi>Reſur<g ref="char:EOLhyphen"/>rection.</hi> The raiſing, and quickening, and new beautifying of our Duſt, (which, when we dye, is ſcattered in the Grave) is a work which re<g ref="char:EOLhyphen"/>quires an <hi>exceeding greatneſs of Power;</hi> but yet it is a work which we expect to be done: <hi>We groan within our ſelves, waiting for the adoption, to</hi> 
+               <note place="margin">Rom. 8. 23.</note> 
+               <hi>wit, the redemption of our body:</hi> The Redemption of our Bodies from the power of Death into a condition of endleſs Life, is called the <hi>Adoption,</hi> becauſe it is the <hi>manifeſtation of the ſons of God,</hi> 
+               <note place="margin">ver. 19.</note> as the Apoſtle ſpeaks a little before, as Chriſt himſelf was <hi>declared to be the Son of God,</hi> by his <note place="margin">chap. 1. 4.</note> riſing from the dead. The ſame Apoſtle ſpeaking upon this Subject elſewhere, ſays, <hi>We groan ear<g ref="char:EOLhyphen"/>neſtly, deſiring to be cloathed upon, with our houſe</hi> 
+               <note place="margin">2 Cor. 5. 2.</note> 
+               <hi>which is from heaven:</hi> A Glorified Body may be ſtiled <hi>our houſe which is from heaven,</hi> in oppoſi<g ref="char:EOLhyphen"/>tion to the <hi>earthly houſe</hi> mentioned in the fore<g ref="char:EOLhyphen"/>going <note place="margin">ver. 1.</note> verſe, becauſe it will be of a more ſpiri<g ref="char:EOLhyphen"/>tual and laſting frame; Diſtempers ſhall make no
+<pb n="15" facs="tcp:101383:11"/> 
+               <hi>Breaches</hi> in it, and Death ſhall not <hi>pull it down.</hi> Infinite Goodneſs obſerves a method herein, which is ſuitable to Infinite Wiſdom; firſt God advances the <hi>Inhabitant,</hi> and then, after a time, he repairs the <hi>habitation;</hi> firſt he unites the <hi>Soul</hi> more cloſe<g ref="char:EOLhyphen"/>ly to <hi>himſelf,</hi> and afterwards the <hi>Body</hi> to the <hi>Soul:</hi> This is that admirable <hi>Change,</hi> which <hi>Job</hi> ſays, that he would <hi>wait all the days of his ap<g ref="char:EOLhyphen"/>pointed</hi> 
+               <note place="margin">Job 14. 14.</note> 
+               <hi>time for;</hi> that is, of his continuance in the ſtate of the dead (as an <hi>Excellent Author</hi> 
+               <note place="margin">How<hi>'s Bleſſ. of the Right.</hi> p. 210, 211, 212.</note> hath largely cleared.) Thus when we lay down our Mortal fleſh in the boſom of the Earth, we leave it to <hi>reſt in hope</hi> of a certain Immor<g ref="char:EOLhyphen"/>tality.</p>
+            <p>I proceed now to the Second Thing which was <milestone type="tcpmilestone" unit="unspecified" n="II"/> propoſed; and that is to ſhew, How this <hi>Work</hi> (of waiting for God's Salvation) is to be done by Believers while they live. Three Things ſeem to be included in it.</p>
+            <p n="1">1. It includes <hi>Fervent Deſires: Waiting for Chriſt from Heaven,</hi> and <hi>loving his appearing,</hi> in <note place="margin">1 Theſ. 1. 10. 2 Tim. 4. 8.</note> Scripture are the ſame thing; ſome things are <hi>unwillingly</hi> expected by wicked men; they fore<g ref="char:EOLhyphen"/>ſee that death will come, and they are afraid of it; ſo there is a <hi>fearful looking for of Judgment,</hi> 
+               <note place="margin">Heb. 10. 27.</note> (which follows after death): This is an Expecta<g ref="char:EOLhyphen"/>tion accompanied with fear, which hath a great deal of uneaſineſs and <hi>torment</hi> in it; they that have it, could wiſh to be diſappointed and miſta<g ref="char:EOLhyphen"/>ken: <hi>Hope</hi> is ſomewhat more than bare <hi>Expecta<g ref="char:EOLhyphen"/>tion,</hi> becauſe it implies <hi>Deſire,</hi> and that we have an <hi>Affection to</hi> the ſame thing, which we have
+<pb n="16" facs="tcp:101383:12"/> a <hi>Proſpect of. Siſera</hi>'s <hi>Mother</hi> was eagerly deſi<g ref="char:EOLhyphen"/>rous to ſee her Son marching home in Triumph, and therefore ſhe <hi>lookt out at a window, and cried out through the lattice, Why is his chariot ſo long</hi> 
+               <note place="margin">Judg. 5. 28.</note> 
+               <hi>in coming?</hi> The Creature which groans under the Curſe for our ſin, is very deſirous of eaſe and reſtitution, and therefore we read of its <hi>earneſt</hi> 
+               <note place="margin">Rom. 8. 19.</note> 
+               <hi>expectation waiting</hi> for ſuch a time. When the Church was waiting for God, they tell him, <hi>The deſire of our ſoul is to thy name,</hi> &amp;c. Do we then <note place="margin">Iſa. 26. 8.</note> wait for the Salvation of the Lord, from a Prin<g ref="char:EOLhyphen"/>ciple of Love to him, and to the Spiritual good things which we expect from him? Can we ſay (as <hi>David</hi> did), That we <hi>wait for God more than</hi> 
+               <note place="margin">Pſal. 130. 6.</note> 
+               <hi>they that watch for the morning?</hi> (Some think that the <hi>Pſalmiſt</hi> alludes in that place, to <hi>Centinels</hi> in an Army or City, who many times being wea<g ref="char:EOLhyphen"/>ried with their tedious Service in the <hi>night,</hi> long till the day breaks, that they may be reliev'd and diſcharg'd by others). It is a neceſſary Queſtion, Are our <hi>hearts directed into</hi> ſuch a paſſionate <hi>wait<g ref="char:EOLhyphen"/>ing for Chriſt?</hi>
+            </p>
+            <p n="2">2. It includes <hi>ſtedfast Hopes:</hi> It is a Fruit that ſprings from <hi>Faith,</hi> for if <hi>that</hi> be <hi>ſhipwrack'd,</hi> no<g ref="char:EOLhyphen"/>thing will fix the ſoul in a waiting poſture: To <hi>hope,</hi> and <hi>quietly wait for the ſalvation of the</hi> 
+               <note place="margin">Lam. 3. 26.</note> 
+               <hi>Lord,</hi> are things which always go together; ſo the great Apoſtle ſpeaks, <hi>If we hope for that which</hi> 
+               <note place="margin">Rom. 8. 25.</note> 
+               <hi>we ſee not, then do we with patience wait for it:</hi> The Inference is grounded upon the preceding Suppoſition, we wait <hi>if</hi> we hope, but elſe we do not: Infidelity overthrows every thing of this kind, as is manifeſt from that woful Inſtance of
+<pb n="17" facs="tcp:101383:12"/> the King of <hi>Iſrael,</hi> when the Famine was ſo great in the Land; <hi>This evil is of the Lord, wherefore</hi> 
+               <note place="margin">2 Kings 6. 33.</note> 
+               <hi>ſhould I wait for him any longer?</hi> q. d. I have no ſuch confidence either in God's Power or Goodneſs, as to think that he can or will remove this Cala<g ref="char:EOLhyphen"/>mity, though he hath inflicted it; I never look for a return of plenty, any more than the <hi>opening of windows in Heaven,</hi> as one of his Courtiers ex<g ref="char:EOLhyphen"/>preſt <note place="margin">chap. 7. 2.</note> himſelf afterwards. Do we therefore heartily believe <hi>the record which God hath given us of his Son?</hi> Are we firmly perſwaded of Chriſt's Ability and Willingneſs to ſave? Are we deeply convinc'd how ſecurely we may truſt in him, how freely we may rowl our burdens on him, how boldly we may make our applications to him, when we are moſt terrified with the ſenſe of ſin and wrath? As <hi>he that comes to God, muſt believe that he is;</hi> ſo he that waits for God's Salvation, muſt believe that there is ſuch a thing, and reſt ſatisfied in its reality: A ſteady aſſurance of that which we expect, will <hi>bear up</hi> our expectation; but otherwiſe it will <hi>ſink.</hi>
+            </p>
+            <p n="3">3. It includes <hi>diligent endeavours</hi> of <hi>preparation</hi> for the thing that we deſire and hope: The Salvation of God is not to be hoped for out of the <hi>road of duty: In the way of thy Judgments</hi> (ſo the Com<g ref="char:EOLhyphen"/>mands <note place="margin">Iſa. 26. 8.</note> of God are ſometimes called) <hi>have we waited for thee:</hi> Such as walk irregularly (in their uſual and ordinary courſe) are not perſons in a <hi>ſalvable</hi> ſtate. <hi>To him that ordereth his converſation</hi> 
+               <note place="margin">Pſal. 50.</note> 
+               <hi>arigbt, will I ſhew the ſalvation of God;</hi> that is, to <hi>him,</hi> and him <hi>only.</hi> They cannot <hi>rejoice in the hope of glory,</hi> who do not live in the exerciſe of <hi>grace.</hi> A man that is <hi>dead in ſin while he lives,</hi> may flatter
+<pb n="18" facs="tcp:101383:13"/> himſelf with an imagination of <hi>dying the death of the righteous</hi> at the laſt; but the miſerable event will undeceive him, when the <hi>time of Reformation</hi> ſhall be no more; <hi>I charge thee</hi> therefore (oh ſinner!) <hi>before God, and the Lord Jeſus Chriſt,</hi> that thou ex<g ref="char:EOLhyphen"/>pect nothing but vengeance from him, till thou yieldeſt up thy ſelf in a way of dutiful ſubjection to him. If you pretend to <hi>wait</hi> for God's Salvation, you muſt ſhew that it is more than a pretence, by taking care to <hi>work it out</hi> your ſelves: Conſider thoſe words of our Saviour, <hi>Let your loins be girded about, and your lights burning, and you your ſelves like</hi> 
+               <note place="margin">Luke 12. 35, 36.</note> 
+               <hi>to men that wait for their Lord,</hi> &amp;c. Are they that give Indulgence to Spiritual ſloth, that live in the cuſtomary neglect of unqueſtionable Duties; that let themſelves looſe in their Converſations, to the ſame <hi>vanities</hi> with the children of this world, and perhaps to ſome of the ſame <hi>vices;</hi> that ſuffer their <hi>lamps to go out</hi> (having not Grace in their hearts to ſupply and feed them); and behave themſelves as if Eternity (like the <hi>morrow)</hi> would <hi>take thought</hi> 
+               <note place="margin">Matt. 6. 34.</note> 
+               <hi>for the things of it ſelf;</hi> are they indeed <hi>like to ſuch men?</hi> Do theſe ſluggards and licentious perſons de<g ref="char:EOLhyphen"/>ſerve the name of <hi>Waiters?</hi> No ſurely; Salvation will never <hi>c<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me home</hi> to any, but ſuch as diligently <hi>ſeek</hi> it, and <hi>labour</hi> after it; Heaven will not <hi>drop</hi> in<g ref="char:EOLhyphen"/>to our <hi>Mouths,</hi> though we <hi>open</hi> them never ſo wide, as long as our <hi>hands</hi> lye <hi>folded together:</hi> Our <hi>Duties</hi> muſt prove our <hi>hopes</hi> legitimate, and our <hi>Obedience</hi> muſt juſtifie our <hi>Expectation:</hi> He that would <hi>ſleep in Jeſus</hi> at Death, muſt <hi>watch</hi> with him in his life; and whoſoever thinks of <hi>dying to the Lord,</hi> muſt reſolve againſt <hi>living to himſelf.</hi>
+            </p>
+            <pb n="19" facs="tcp:101383:13"/>
+            <p> I come now to the Third Thing, which is to open <milestone type="tcpmilestone" unit="unspecified" n="III"/> (briefly), How this waiting for the Salvation of the Lord, will yield <hi>comfort</hi> to Believers when they come to dye. This may appear in two Reſpects.</p>
+            <p n="1">1. A Reflection on our own <hi>Act</hi> (of waiting) will be comfortable to us at that time: <hi>Hezekiah</hi> when he was <hi>ſick unto death,</hi> refreſhes himſelf with the view of his paſt Converſation, and appeals to God, <hi>Remember now, oh Lord! how I have walked before</hi> 
+               <note place="margin">Iſa. 38. 3.</note> 
+               <hi>thee,</hi> &amp;c. When Death finds a man in his proper <hi>place</hi> and <hi>work,</hi> in that ſtation and employment which belongs to him, the Terror and Force of it is very much broken; but when it ſurprizes him in his ſin, and comes upon him while he is <hi>fighting againſt God,</hi> no wonder if his <hi>Fleſh tremble,</hi> and his <hi>Heart fail:</hi> he cannot look <hi>back</hi> without ſad confuſion, nor look <hi>forward</hi> without dreadful amazement. A Believer that hath liv'd long in the expectations of a Sum<g ref="char:EOLhyphen"/>mons to remove, and made ſuitable proviſion, may <hi>calmly ſhoot the gulph;</hi> the <hi>exerciſing of himſelf to God<g ref="char:EOLhyphen"/>lineſs</hi> beforehand, is a means to prevent all trouble or affrightment in his <hi>paſſage to Bleſſedneſs:</hi> Not that any of our <hi>Services</hi> are our <hi>Saviours,</hi> or that we can <hi>build a Tower</hi> of our own works, whereby to <hi>reach to Heaven,</hi> (for multitudes in attempting this, have <hi>tumbled into Hell);</hi> but the Fruits of Sanctification <note place="margin">Rom. 8. 23.</note> are a kind of <hi>Firſt-fruits,</hi> with reſpect to Glorifica<g ref="char:EOLhyphen"/>tion; and our living <hi>unto</hi> God here, is a certain token of our being ordain'd to live <hi>with</hi> him hereafter: If we have <hi>kept the Precepts,</hi> we may know that we are <hi>Heirs of Promiſe;</hi> it yields comfort as a <hi>ſign,</hi>
+               <pb n="20" facs="tcp:101383:14"/> though not as a <hi>cauſe: The Lord is good</hi> (ſays the <note place="margin">Lam. 3. 25.</note> Prophet), <hi>to them that wait for him;</hi> we do not by our waiting <hi>merit</hi> to partake of the Goodneſs of God (any more than a beggar would <hi>deſerve an Alms,</hi> by ſtanding at our doors) but God hath ordered, that we ſhall be <hi>thus qualified</hi> and diſpoſed for it.</p>
+            <p n="2">2. The conſideration of the <hi>Object</hi> (God's Salva<g ref="char:EOLhyphen"/>tion) is very comfortable to a Believer, when he is at the point to dye. How ſweet is it to think of <hi>being with Chriſt,</hi> when the Soul is ſtanding (like <hi>Abra<g ref="char:EOLhyphen"/>ham)</hi> in the <hi>door of its tent,</hi> ready to depart out of <note place="margin">Gen. 18. 1.</note> the body! What a vigorous Impreſſion muſt the <hi>Powers of the World to come,</hi> make upon the Soul, when it is ſtepping out of <hi>this!</hi> How ſtrong a <hi>Cor<g ref="char:EOLhyphen"/>dial</hi> muſt the proſpect of <hi>Heaven</hi> be to a Saint, that's juſt leaving of the <hi>Earth!</hi> What Comfort ſo great, as to <hi>know that our Redeemer lives,</hi> when theſe vile Carkaſſes are dying, and the <hi>Worms ready to deſtroy</hi> 
+               <note place="margin">Job 19. 25.</note> 
+               <hi>them!</hi> How little ſatisfaction is the having of <hi>goods laid up for many years,</hi> to one that muſt leave them all behind him in a <hi>few moments!</hi> What <hi>miſerable Com<g ref="char:EOLhyphen"/>forters</hi> in a mans laſt diſtreſs, are <hi>bags which wax old,</hi> and <hi>treaſures which fail!</hi> Therefore when holy <hi>David</hi> had been meditating on our common <hi>frailty</hi> and <hi>folly,</hi> 
+               <note place="margin">Pſal. 39. 6.</note> (how we <hi>walk in a vain ſhew,</hi> and yet <hi>diſquiet our ſelves in vain,</hi> &amp;c.) he adds, <hi>And now, oh Lord! what</hi> 
+               <note place="margin">ver. 7.</note> 
+               <hi>wait I for? my hope is in thee:</hi> q. d. I cannot hope to be delivered <hi>from</hi> death, nor ſupported <hi>in</hi> death, nor made happy <hi>after</hi> death, by ſuch periſhing and <hi>corruptible things as ſilver and gold;</hi> but my eye is towards thee, as my Everlaſting Portion, and upon the <hi>durable riches</hi> which thou haſt to beſtow; the ſenſe whereof is ſufficiently reviving, though I were
+<pb n="21" facs="tcp:101383:14"/> now drawing my laſt breath, and falling into the <hi>hand of the Grave.</hi> Dying Believers are mightily ſupported when they conſider how much <hi>nearer</hi> their <hi>Salvation now is,</hi> than when they were firſt uni<g ref="char:EOLhyphen"/>ted <note place="margin">Rom. 13. 11.</note> unto Chriſt.</p>
+            <p>The Fourth and laſt thing propounded, was the <milestone type="tcpmilestone" unit="unspecified" n="IV"/> Application of this Doctrine. Several Inferences might be gather'd from it, agreeable enough to the Text, and the occaſion: I ſhall only hint a few.</p>
+            <p>Firſt, We may learn hence, that it is a mercy to be taken notice of, both by living and dying Be<g ref="char:EOLhyphen"/>lievers, that Chriſt did not conſult the <hi>ſaving of him<g ref="char:EOLhyphen"/>ſelf;</hi> for if he had, he could not have been the Salvation of God <hi>to us.</hi> If our Lord had follow<g ref="char:EOLhyphen"/>ed his Diſciples counſel, and <hi>ſpared</hi> his own life, we muſt have liv'd and died in remedileſs deſpair. A little of that <hi>ſelf-love</hi> in him, which reigns ſo much in us, would have ruin'd all our confidences, ſub<g ref="char:EOLhyphen"/>verted our hopes, and left us to <hi>lye down in ſorrow</hi> without recovery. To what <hi>mountains or hills</hi> ſhould we have <hi>lookt</hi> for ſalvation, if he had declin'd the <hi>drinking</hi> of the <hi>bitter cup?</hi>
+            </p>
+            <p>Secondly, This teaches us, that the <hi>preſent world</hi> was not deſign'd for the place of our abode, or ultimate fe<g ref="char:EOLhyphen"/>licity. It is our <hi>travelling way,</hi> but not our Country and our <hi>Home.</hi> Expectation ceaſes in a ſtate of perfect fruition; why ſhould we <hi>wait,</hi> if <hi>our hope were in this life,</hi> and not beyond it? We muſt put a ſtop to all our deſires and thoughts of a future happi<g ref="char:EOLhyphen"/>neſs, if the ſtate which we now are in, were the ſtate of full enjoyment. Take your meaſures of this
+<pb n="22" facs="tcp:101383:15"/> world from the <hi>nature</hi> and <hi>quality</hi> of that work, which God hath given you to do in it. <hi>We walk by faith,</hi> 
+               <note place="margin">2 Cor. 5. 7.</note> 
+               <hi>and not by ſight;</hi> therefore here is not our <hi>continu<g ref="char:EOLhyphen"/>ing City,</hi> or the Center of our reſt.</p>
+            <p>Thirdly, What a wretched caſe are the <hi>neglecters of this Salvation</hi> in! What will they do in their own laſt moments, and <hi>how ſhall they eſcape</hi> in the <note place="margin">Heb. 2. 3.</note> laſt day of the world! How ſenſibly worſe will their condition be, when they have <hi>finiſhed their courſe,</hi> than it is now! and yet what vaſt numbers of <hi>ſuch</hi> fill up every place! men that prefer <hi>their own ſins</hi> to <hi>God</hi>'s <hi>Salvation,</hi> that ſet up worſe <hi>Thieves</hi> and <hi>Murderers</hi> than <hi>Barrabas</hi> in competition with Chriſt, I mean thoſe luſts whereby they <hi>rob</hi> God of his right, and <hi>deſtroy</hi> their own ſouls. Oh, that they would yet learn to be aſham'd of themſelves, and think of ſome of thoſe who have liv'd in the ſame times and places with them, who (if they re<g ref="char:EOLhyphen"/>pent not) will <hi>riſe up in judgment and condemn</hi> them! Before the <hi>Tree falls</hi> (Oh ſinner) thou mayeſt <hi>alter thy posture,</hi> and turn a <hi>waiter</hi> for Chriſt, who art yet a <hi>Rebel</hi> againſt him; for <hi>now is the day of ſalvation.</hi> 
+               <note place="margin">2 Cor. 6. 2.</note> I beſpeak Conſcience to do its office, in obſerving and recording, that <hi>this day</hi> the word of Salvation was again ſent to thee; and therefore refuſe or deſpiſe it at thy peril.</p>
+            <p>Fourthly, How ſhould we be inſtructed by this, to converſe with our <hi>living comforts,</hi> as <hi>dying crea<g ref="char:EOLhyphen"/>tures,</hi> as thoſe that are waiting to be gone from us! How ſhould we <hi>rejoice</hi> in their ſociety, <hi>as tho we re<g ref="char:EOLhyphen"/>joyced not,</hi> conſidering that they are <hi>making them<g ref="char:EOLhyphen"/>ſelves</hi> 
+               <note place="margin">1 Cor. 7. 30.</note> 
+               <hi>wings,</hi> and in a very little while, either they
+<pb n="23" facs="tcp:101383:15"/> will leave <hi>us</hi> alone, or we ſhall leave <hi>them</hi> ſo! How eaſie is it then to overlove theſe <hi>mortal</hi> things! only <hi>He that hath immortality,</hi> cannot be lov'd too much. What folly is it to <hi>bind up our lives in the lives</hi> of our fellow-creatures (as <hi>Jacob's</hi> was ſaid to be in <hi>Ben<g ref="char:EOLhyphen"/>jamin's)</hi> 
+               <note place="margin">Gen. 44. 30. Col. 3. 3.</note> when <hi>our life,</hi> and theirs, <hi>is hid with Chriſt in God,</hi> and upon that account they are always ex<g ref="char:EOLhyphen"/>pecting an opportunity to exchange their weary <hi>Pilgrimage</hi> with us, for a glorious <hi>reſidence</hi> with him! Our beſt Friends, and Holieſt Relations are not to be reckon'd as <hi>living fountains,</hi> but as <hi>leaking and broken cisterns;</hi> and though we have the more mat<g ref="char:EOLhyphen"/>ter of thankfulneſs, the longer we enjoy them, yet this muſt not tempt us to preſume, that we ſhall <hi>have them always with us.</hi>
+            </p>
+            <p>Laſtly, How ſhould this leſſen and abate of our <hi>trouble,</hi> with reſpect to thoſe who are <hi>remov'd</hi> from us already! Their <hi>time of waiting</hi> is ſwallow'd up in an <hi>Eternity of full participation;</hi> their <hi>work</hi> is done, and their <hi>reward</hi> receiv'd; we are ſtill <hi>running of our race,</hi> they have <hi>reacht the mark,</hi> and are <hi>ſat down;</hi> we are praying to be <hi>viſited with God's ſalvation,</hi> but <note place="margin">Pſal. 106. 4.</note> it is no <hi>ſin</hi> with them to <hi>reſtrain prayer,</hi> becauſe they have <hi>poſſeſſion. If</hi> therefore <hi>we loved them</hi> (as <note place="margin">Joh. 14. 28.</note> Chriſt ſays to his Diſciples, in reference to his own departure) it ſhould incline us to <hi>rejoyce;</hi> we ſhould as well <hi>bleſs the Lord,</hi> when he <hi>takes them away</hi> in <note place="margin">Job 1. 21.</note> mercy to <hi>themſelves,</hi> as when he <hi>gives them</hi> in mercy unto <hi>us.</hi> I readily grant, that this is an <hi>Hard ſaying,</hi> and that which will not be digeſted, and cannot be complied with, by <hi>Fleſh and Blood;</hi> But I ſpeak of <hi>moderating</hi> ſorrow, not of <hi>extinguiſh<g ref="char:EOLhyphen"/>ing</hi> it; 'tis <hi>unnatural</hi> not to mourn, as 'tis <hi>
+                  <g ref="char:V">Ʋ</g>nchriſtian</hi>
+               <pb n="24" facs="tcp:101383:16"/> to mourn <hi>like men without hope.</hi> Many things were repreſented and deſcrib'd in Viſion to the Prophets of old, which were never really put in practice; and among ſuch things ſome have ſuppoſed, that That Injunction may be numbred; <hi>Son of man, be<g ref="char:EOLhyphen"/>hold</hi> 
+               <note place="margin">Ezek. 24. 16.</note> 
+               <hi>I take away from thee the deſire of thine Eyes with a ſtroke; yet ſhalt thou not mourn, nor weep, neither ſhall thy tears run down.</hi> The limited expreſſion of our Grief upon ſuch occaſions, is agreeable to <hi>Na<g ref="char:EOLhyphen"/>ture;</hi> but this muſt not run ſo far, as to contradict the Principles of <hi>Grace. Grieve</hi> not, as if you envi<g ref="char:EOLhyphen"/>ed them the conſummation of their <hi>Joy,</hi> and wiſht their return to you. If we ſhould <hi>chooſe death ra<g ref="char:EOLhyphen"/>ther than life</hi> for our ſelves (ſuppoſing that it were put to our choice) let it pleaſe us, that God in his Providence <hi>hath choſen this for them.</hi>
+            </p>
+            <p>I can with great courage and boldneſs recom<g ref="char:EOLhyphen"/>mend this Duty at this time, having ſuch good grounds whereon to perſwade my ſelf of the bleſſed Condition of Our Departed Friend; I will not ſay, that this <hi>Sheep</hi> of Chriſt was <hi>without ſpot,</hi> (becauſe this is peculiar to the <hi>Lamb of God</hi> himſelf) but without the leaſt doubt or jealouſie of the con<g ref="char:EOLhyphen"/>trary, I do affirm, that <hi>Her ſpot was the ſpot of</hi> 
+               <note place="margin">Deut. 32. 5.</note> 
+               <hi>God's Children;</hi> and therefore whatever lamented Infirmity ſhe had, I am ſure, that it ought not to be objected againſt her <hi>Name</hi> and <hi>Memory</hi> by us who dwell ſtill in <hi>Houſes of Clay,</hi> who, <hi>if we ſay that</hi> 
+               <note place="margin">1 John 1. 8.</note> 
+               <hi>we have no ſin,</hi> deſerve to be branded for <hi>Lying Hy<g ref="char:EOLhyphen"/>pocrites.</hi> As all that knew her, ſo eſpecially <hi>we</hi> in this Congregation, that ſurvive her, have great rea<g ref="char:EOLhyphen"/>ſon to call her back into our Thoughts, as a <hi>Worthy Pattern</hi> and Example for our future imitation. She
+<pb n="25" facs="tcp:101383:16"/> was one that <hi>kept the Law as the Apple of her Eye;</hi> ſhe was very tender and cautious in avoiding the doubtful <hi>appearances of evil;</hi> and diſcover'd a re<g ref="char:EOLhyphen"/>markable hatred of ſin, and zeal againſt it. More particularly, ſhe was a very ſtrict obſerver of the <hi>Chriſtian Sabbath,</hi> and exceeding fearful of doing any thing, which might but <hi>ſeem</hi> to pollute or pro<g ref="char:EOLhyphen"/>phane it in the leaſt degree. (I could wiſh, that the Generality of Profeſſors took as much care to abſtain from what is <hi>plainly ſinful</hi> upon that <hi>Holy Day,</hi> as ſhe did to forbear what was <hi>really innocent</hi> in its nature, leſt it ſhould accidentally <hi>give offence.)</hi> She took great <hi>delight</hi> at all times <hi>in approacing unto God,</hi> and it was with a more than ordinary <hi>deſire, that ſhe deſired</hi> to joyn in the <hi>laſt Sacrament with us before ſhe died,</hi> (in imitation of Chriſt's <hi>deſiring to</hi> 
+               <note place="margin">Luk. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>2. 15.</note> 
+               <hi>eat the Paſſeover</hi> with his Diſciples <hi>before he ſuf<g ref="char:EOLhyphen"/>fer'd.)</hi> As if ſhe had met with ſome ſecret Inti<g ref="char:EOLhyphen"/>mation from God (tho there was no open ſuſpicion) how near the time drew, that ſhe <hi>muſt dye;</hi> and as if after this, ſhe could have ſaid, <hi>It is enough now, O Lord; Let thy Servant depart in peace.</hi> She was an <note place="margin">Chap. 2. 29.</note> hearty lover of God's <hi>Word</hi> and <hi>Ways,</hi> of his <hi>Meſſen<g ref="char:EOLhyphen"/>gers</hi> and <hi>People;</hi> and ſhe did not only <hi>ſit before him</hi> as a Reverent <hi>Worſhipper of him</hi> here, but ſhe <hi>walkt</hi> 
+               <note place="margin">Joh. 9. 31.</note> 
+               <hi>with him</hi> in her whole courſe, as a Conſcientious <hi>Doer of his will.</hi> She embrac'd the Doctrine of faith, and liv'd a life of faith, by which ſhe <hi>adorn'd the Doctrine;</hi> and now I am not afraid to pronounce, that ſhe hath <hi>receiv'd the end of her faith, the Sal<g ref="char:EOLhyphen"/>vation</hi> 
+               <note place="margin">1 Pet. 1. 9.</note> 
+               <hi>of her ſoul.</hi> While we are yet ſinging in the <hi>tune</hi> of <hi>Lamentations,</hi> I queſtion not but that her Song is, <hi>This is my God,</hi> (and my Chriſt) <hi>I have</hi> 
+               <note place="margin">Iſa. 25. 9.</note> 
+               <hi>waited for him.</hi> She that a Week ago ſat among
+<pb n="26" facs="tcp:101383:17"/> us <hi>at God's Foot,</hi> is now among Angels and the Spirits of juſt men <hi>about his Throne;</hi> ſhe who then ſtood as a <hi>Learner</hi> at <hi>Wiſdoms gates,</hi> hath now much <hi>more un<g ref="char:EOLhyphen"/>derſtanding than all her Teachers,</hi> and is a <hi>Pillar</hi> in the Heavenly <hi>Temple;</hi> ſhe who kept the <hi>laſt Sabbath</hi> with us, is now keeping an <hi>Eternal one</hi> with God; and ſhe who then <hi>feasted</hi> with ſome of us at the <hi>Table of the Lord,</hi> is now an <hi>actual Gueſt</hi> at the <hi>Marriage-Supper of the Lamb.</hi> I ſcruple not to parallel her with <hi>dying Jacob</hi> in the Text, for in <hi>Chriſt Jeſus there is neither Male</hi> 
+               <note place="margin">Gal. 3. 28.</note> 
+               <hi>nor Female;</hi> (that is, no diſtinction as to Spiritual Privileges between the one and the other.) And ſhe was a true <hi>Daughter of Abraham,</hi> according to the <hi>Faith,</hi> and one of the holy <hi>Seed of Jacob;</hi> there<g ref="char:EOLhyphen"/>fore ſhe is now ſat down with <hi>Abraham, and Iſaac, and Jacob</hi> (and all the reſt of the Old and New Teſta<g ref="char:EOLhyphen"/>ment-Believers) <hi>in the Kingdom of God.</hi> 
+               <note place="margin">Matt. 8. 11.</note>
+            </p>
+            <p>What is now the Language of this <hi>ſurprizing Pro<g ref="char:EOLhyphen"/>vidence</hi> to us? <hi>The voice ſays, Cry;</hi> but <hi>what does it</hi> 
+               <note place="margin">Iſa. 40. 6.</note> 
+               <hi>cry? All fleſh is graſs, and the goodlineſs thereof is as the flower of the field.</hi> Here was one of a ſtrong and active, ſound and healthful Conſtitution, in a few hours (after the fatal Diſtemper ſeized her) depri<g ref="char:EOLhyphen"/>ved of <hi>Senſe and <g ref="char:V">Ʋ</g>nderſtanding,</hi> and in a few more deprived of <hi>life.</hi> When we loſe the <hi>comfort</hi> of the <hi>Lives</hi> of our Friends, let us not alſo loſe the <hi>benefit</hi> which God intends us by their <hi>Deaths.</hi> What <hi>Joy</hi> will there be in <hi>heaven</hi> where ſhe is, if this Sermon, occaſioned by her <hi>ſleeping in the duſt,</hi> prove the <hi>awakening</hi> of any one Soul to <hi>Righteouſneſs!</hi> That word is fulfilled among us this day, <hi>One ſhall be taken,</hi> 
+               <note place="margin">Matt. 24. 40.</note> 
+               <hi>and another left;</hi> ſhe is ſnatcht out of the body, and we are continued in it; <hi>boaſt not your ſelves of to mor<g ref="char:EOLhyphen"/>row,</hi> 
+               <note place="margin">Prov. 27. 1.</note>
+               <pb n="27" facs="tcp:101383:17"/> much leſs of a <hi>week</hi> to come; but ſpend <hi>every day,</hi> and eſpecially ſanctifie <hi>every Lords day,</hi> as per<g ref="char:EOLhyphen"/>ſons who are not ſure of living till the <hi>next.</hi> Conſi<g ref="char:EOLhyphen"/>der how quick a ſtroke cut off this Servant of God, who within the compaſs of little more than a Natu<g ref="char:EOLhyphen"/>ral Day, was <hi>Well</hi> and <hi>Dead. Her place</hi> in this Aſ<g ref="char:EOLhyphen"/>ſembly will now <hi>know her no more:</hi> You cannot tell how ſoon your <hi>Seats</hi> (like that of <hi>David)</hi> will alſo <note place="margin">1 Sam. 20. 18.</note> be <hi>empty;</hi> empty of <hi>you,</hi> though they may be filled with <hi>others.</hi> Remember that the <hi>time is ſhort,</hi> and your <hi>paſſage to Eternity</hi> may be <hi>ſudden;</hi> therefore ſe<g ref="char:EOLhyphen"/>riouſly look after the <hi>things of your peace,</hi> ſo as to <hi>ac<g ref="char:EOLhyphen"/>quaint your ſelves with God,</hi> and make him your <hi>Friend,</hi> before you <hi>ſee Death,</hi> which to all unprepa<g ref="char:EOLhyphen"/>red Souls is the <hi>worſt,</hi> as well as the <hi>laſt Enemy.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
